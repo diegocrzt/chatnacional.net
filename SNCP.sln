@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFD8D7AB-B43F-4BCF-8337-42CA2E7FCF2C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNCP", "ConsoleApp\SNCP.csproj", "{FD1D284E-424B-4B90-8CD1-C28050B25B00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNCP", "SNCP\SNCP.csproj", "{FD1D284E-424B-4B90-8CD1-C28050B25B00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
